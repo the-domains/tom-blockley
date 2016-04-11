@@ -1,7 +1,7 @@
 name: Tom Blockley
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.6030804528854787
+layout_spectrum: 1
+typography_spectrum: 0.49877
 title: Tom Blockley - Designer
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.6676655332557857
-  lightness: 0.14016154129058123
-  saturation: 0.12384236557409167
-  rhythmicContrast: 0.8797488699201494
+  brandStrength: 1
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
